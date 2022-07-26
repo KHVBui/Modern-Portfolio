@@ -12,6 +12,10 @@
 /.next/
 /out/
 
+# yarn
+.yarn
+.yarnrc.yml
+
 # production
 /build
 
